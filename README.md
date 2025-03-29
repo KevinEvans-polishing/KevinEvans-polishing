@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KevinEvans-polishing
 - 👀 I’m a freshman in computer science
-- 🌱 I’m currently learning how to become a excellent developer
+- 🌱 I’m currently learning how to become an excellent developer
 
 
 <!---
